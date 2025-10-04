@@ -20,5 +20,4 @@ I’m a Computer Science student at UCLA with a passion for **building impactful
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/ishanroyyuru)  
-- [Portfolio](https://ishanroyyuru.github.io)  
 - [Email](mailto:ishanroyyuru@gmail.com)  
