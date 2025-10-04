@@ -16,7 +16,6 @@ I’m a Computer Science student at UCLA with a passion for **building impactful
 - **Freelance AI App:** Full-stack contract-review platform with GPT summarization and secure S3 storage.  
 - **ReMindr (Dementia-Care App):** AI-driven SOS alerts and speech-to-text functionality for caregivers.  
 - **Retune (Music Tracking App):** Location-based music app for 170+ users, featuring recommendation algorithms using embeddings.  
-- **Animal Classifier:** CNN image classifier trained on CIFAR-10 dataset using PyTorch.
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/ishanroyyuru)  
